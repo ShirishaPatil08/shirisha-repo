@@ -1,1 +1,2 @@
 Hello, creating new file
+Adding line2
